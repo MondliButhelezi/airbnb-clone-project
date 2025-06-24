@@ -8,7 +8,7 @@ This project is a backend clone of Airbnb. It simulates a real-world booking pla
 - Implement user management, property listings, bookings, reviews, and payments
 - Use modern tools and best practices in backend development
 
-## 🧰 Tech Stack
+## 🧰 Technology Stack
 - **Django** – Python web framework for building the backend
 - **Django REST Framework** – For RESTful API development
 - **GraphQL** – Flexible querying of backend data
@@ -24,7 +24,7 @@ This project simulates a collaborative development team structure. Each role is 
 Responsible for implementing the core application logic, REST and GraphQL APIs, authentication systems, and feature modules like bookings, reviews, and payments.
 
 ### 🗃️ Database Administrator (DBA)
-Designs and maintains the database schema, enforces data integrity, creates indexes for optimization, and ensures data backups and security policies are in place.
+Designs and maintains the database schema, enforces data integrity, creates indexes for optimisation, and ensures data backups and security policies are in place.
 
 ### 🚀 DevOps Engineer
 Sets up and maintains the infrastructure for continuous integration and delivery (CI/CD), manages containerization with Docker, and handles deployment and environment monitoring.
